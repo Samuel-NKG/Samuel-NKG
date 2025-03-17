@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Samuel-NKG
 - 👀 I’m interested in making bugs
 - 🌱 I’m currently learning Jovo,C--,qython
-- 💞️ I’m looking to collaborate on how to blow up my university
-- 📫 NOT to reach me 
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on how to blow up my university campus
+- 📫 Welcome to reach me at samuelshen2004@gmail.com
 - ⚡ Fun fact: NO
 
 <!---
