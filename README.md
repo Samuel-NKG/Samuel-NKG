@@ -2,7 +2,7 @@
 - 👀 I’m interested in making bugs and debugging
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on how to BLOW UP my university campus
-- 📫 Welcome to reach me at samuelshen2004@gmail.com
+- 📫 Welcome to reach me at shenxinyangnkg@gmail.com
 - 🏫 Xidian University , Xian , Shaanxi , China
 - 🏠 Nanjing , Jiangsu , China
 
